@@ -1,0 +1,5 @@
+body { margin: 0px; padding: 0px; font-family: tahoma; font-size: small; text-align: center; }
+.market-view { background-color: #FFFCDD; }
+.debug-view { padding: 20px; height: 400px; }
+.status-view { background-color: #cecece; }
+.chart-view { height: 600px; }
