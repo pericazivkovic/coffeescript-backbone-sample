@@ -6,3 +6,5 @@ Contains following features:
  * Automatic view update on model change
  * Building JS output from CoffeeScript files with cake 
  * Usage of namespaces to separate CoffeeScript code in different files
+
+http://pericazivkovic.github.com/coffeescript-backbone-sample/
