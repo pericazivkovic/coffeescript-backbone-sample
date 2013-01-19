@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Download page"
+title: "Download"
 category: wiki
 ---
 Download page
