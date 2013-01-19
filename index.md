@@ -26,3 +26,5 @@ def foo2(self):
 	dir(page)
 	print "test"
 {% endhighlight %}
+
+<script src="https://gist.github.com/4572946.js"></script>
