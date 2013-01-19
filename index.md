@@ -15,3 +15,12 @@ Wooooot !!
 <a href="/coffeescript-backbone-sample{{ site.uri }}{{ post.url }}">{{ post.title }}</a>
 +
 {% endfor %}
+
+{% highlight python%}
+def foo:
+	pass
+
+def foo2(self):
+	format self
+	dir(page)
+{% endhighlight %}
