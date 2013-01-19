@@ -16,7 +16,7 @@ Wooooot !!
 +
 {% endfor %}
 
-{% highlight python%}
+{% highlight python lineno%}
 def foo:
 	pass
 
