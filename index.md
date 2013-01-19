@@ -19,8 +19,10 @@ Wooooot !!
 {% highlight python linenos %}
 def foo:
 	pass
+	pass
 
 def foo2(self):
 	format self
 	dir(page)
+	print "test"
 {% endhighlight %}
