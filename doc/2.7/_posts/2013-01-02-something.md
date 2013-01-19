@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "s0ok"
-category: wiki
+category: wiki, test
 ---
 woot2
 
