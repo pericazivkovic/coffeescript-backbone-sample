@@ -3,6 +3,5 @@ layout: default
 title: "Download page"
 category: wiki
 ---
-Wooooot !!
+Download page
 
-[download](/download/)

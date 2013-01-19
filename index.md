@@ -4,4 +4,4 @@ title: "Welcome To My Sweet Blog"
 ---
 Wooooot !!
 
-[Download][Download link]
+[download](download)
