@@ -5,4 +5,4 @@ category: wiki
 ---
 Wooooot !!
 
-[Download](download)
+[download](/download/)
