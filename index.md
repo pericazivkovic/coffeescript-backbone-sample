@@ -5,3 +5,5 @@ title: "Welcome To My Sweet Blog"
 Wooooot !!
 
 [download](download)
+
+[[_TOC_]]
