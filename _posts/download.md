@@ -5,4 +5,4 @@ category: wiki
 ---
 Wooooot !!
 
-[Download][Download link]
+[Download](download)
