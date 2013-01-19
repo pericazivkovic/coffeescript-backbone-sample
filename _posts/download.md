@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Welcome To My Sweet Blog"
+title: "Download page"
+category: wiki
 ---
 Wooooot !!
 
