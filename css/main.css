@@ -59,20 +59,88 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {
+    -webkit-font-smoothing: antialiased;
+    background-color: rgb(246, 246, 246);
+    color: rgb(68, 68, 68);
+    display: block;
+    font-family: HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px;
+    overflow-x: auto;
+    overflow-y: auto;
+}
 
+.sitewide {
+    background-color: rgb(252, 252, 252);
+    background-image: none;
+    box-shadow: rgb(172, 172, 172) 0px 1px 3px 0px;
+    height: 60px;
+    margin-bottom: 75px;
+    padding-top: 10px;
 
+    background-image:url('logobw.png');
+    background-repeat: no-repeat;
+    background-position: 0px -20px;
+}
 
+a:link, a:hover, a:visited, a:active {
+    text-decoration: none;
+    color: rgb(60, 122, 174);
+}
 
+.sitewide:hover {
+    box-shadow: rgb(60, 122, 174) 0px 1px 3px 0px;
+    background-image:url('logo.png');
+}
 
+.container {
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+}
 
+header h1 {
+    font-family: tahoma, arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    line-height: 45px;
+    margin-top: 0px;
+    text-rendering: optimizelegibility;
+    float: left;
+}
 
+nav, nav ul {
+    list-style-image: none;
+    list-style-type: none;
+    text-align: left;
+    text-decoration: none;
+    text-transform: uppercase;
+    word-spacing: 10px;
+    float: right;
+    width: 450px;
+    height: 60px;
+    display: inline;
+}
 
+.inline li { 
+    display: inline; 
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+}
 
-
-
-
-
-
+.row {
+    width: auto;
+    height: 60px;
+}
 
 /* ==========================================================================
    Media Queries
